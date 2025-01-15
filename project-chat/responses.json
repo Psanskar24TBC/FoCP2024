@@ -1,0 +1,46 @@
+{
+  "keywords": {
+    "requirements": "{user_name}, You need a high school diploma with at least 60% in mathematics and English proficiency (IELTS 6.5 or TOEFL 80).",
+    "application fee": "Yes, the application fee is $50, {user_name}",
+    "undergraduate programs": "We offer programs in Engineering, Business, Arts, Science, and more.",
+    "tuition fee": "The tuition fee is $15,000 per year for international students.",
+    "scholarships": "Scholarships include merit-based, need-based, and departmental awards.",
+    "What housing options are available?": "We offer on-campus dormitories, shared apartments, and family housing.",
+    "Are there student clubs or organizations?": "Yes, over 50 clubs focus on academics, arts, sports, and community service.",
+    "What is the deadline to apply for financial aid?": "The deadline is April 30 for the fall intake.",
+    "coffee": "The campus coffee bar is open from 8 AM to 8 PM, {user_name}",
+    "library": "The library is open 24/7 for students, {user_name}",
+    "sports": "The sports complex is open from 6 AM to 10 PM daily.",
+    "study": "You can book study rooms at the library desk.",
+    "weather": "The weather forecast predicts sunny skies today! Perfect for outdoor activities.",
+    "food": "The campus cafeteria offers a variety of meals, including vegetarian and vegan options, {user_name}",
+    "event": "Check out the campus noticeboard for upcoming events and activities.",
+    "party": "Did you know there's a student social this Friday evening? Don't miss it!",
+    "help": "If you need assistance, reach out to the student services team—they're always happy to help {user_name}.",
+    "music": "The music club meets every Wednesday. You should join if you're into music!",
+    "travel": "The campus shuttle service runs from 7 AM to 10 PM for easy commutes.",
+    "scholarship?": "You can apply for scholarships through the university portal. Deadline: December 20th.",
+    "course": "Poppleton University offers a wide range of undergraduate and postgraduate programs across various fields, including Computer Science, Business Administration, Engineering, Arts, and more. You can find the complete list of programs on our [programs page].",
+    "admission": "The admission process typically involves submitting your application, meeting the academic requirements, and passing an entrance exam (if required). You can apply online through our admissions portal. For detailed steps, please refer to our [admissions guide]",
+    "located": "Poppleton University is located in the heart of Poppleton city, with easy access to public transport. The exact address and directions can be found on our [contact page].",
+    "facilities": "Our campus features state-of-the-art facilities including lecture halls, libraries, sports complexes, student dormitories, and a cafeteria. We also have dedicated spaces for clubs and extracurricular activities"
+  },
+
+  "generic_responses": [
+    "Interesting! {user_name} Could you tell me more?",
+    "I'm not sure about that. Can you clarify {user_name}?",
+    "That's a good question {user_name}. Let me think!",
+    "Hmmm, I need to learn more about that!",
+    "That's intriguing! Can you elaborate on that?",
+    "Hmm, I haven't come across that before—could you explain more?",
+    "Wow! That sounds exciting. What else can you share about it?",
+    "I'm not entirely sure about that. What do you think?",
+    "Oh, that's a new one for me! Let's explore it together {user_name}.",
+    "That’s an interesting thought {user_name}. What makes you ask that?",
+    "Let me think... Can you rephrase or give me more details {user_name}?",
+    "I’d love to know more about what you're saying. Keep going!",
+    "You're raising some great points. What else can you tell me?",
+    "That's a tricky one! I’ll have to get back to you on that."
+  ],
+  "exit_phrases": ["bye", "quit", "exit", "goodbye", "see ya", "ok cha ta"]
+}

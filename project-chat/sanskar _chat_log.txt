@@ -1,0 +1,10 @@
+Chat session with sanskar 
+
+User: what undergraduate programs do you offer?
+Agent: We offer programs in Engineering, Business, Arts, Science, and more.
+User: what are the entry requirements for the bachelor of computer science?
+Agent: sanskar , You need a high school diploma with at least 60% in mathematics and English proficiency (IELTS 6.5 or TOEFL 80).
+User: is there an application fee?
+Agent: Yes, the application fee is $50, sanskar 
+User: bye
+Session ended by user.
